@@ -6,6 +6,7 @@ gem 'spring', :group => :development
 gem 'pg'
 gem 'yelp'
 gem 'figaro'
+gem 'rack-cors', :require => 'rack/cors'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
